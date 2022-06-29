@@ -1,0 +1,5 @@
+git conffig --global user name      
+this is my frist line
+my name is aqil ansari
+okay okay
+
