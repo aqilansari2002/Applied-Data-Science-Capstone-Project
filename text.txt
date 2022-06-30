@@ -1,6 +1,0 @@
-git conffig --global user name      
-this is my frist line
-my name is aqil ansari
-okay okay
-ok ok
-this is 6th line made on github website
